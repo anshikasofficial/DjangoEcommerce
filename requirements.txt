@@ -1,0 +1,21 @@
+asgiref @ file:///tmp/build/80754af9/asgiref_1617740417847/work
+astroid==2.5.6
+certifi==2020.12.5
+colorama==0.4.4
+Django @ file:///tmp/build/80754af9/django_1617740316746/work
+importlib-metadata @ file:///C:/ci/importlib-metadata_1617877486026/work
+isort==5.9.1
+lazy-object-proxy==1.6.0
+mccabe==0.6.1
+path @ file:///C:/ci/path_1614022434895/work
+Pillow==8.2.0
+psycopg2 @ file:///C:/ci/psycopg2_1612298715048/work
+pylint==2.8.3
+pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
+sqlparse @ file:///tmp/build/80754af9/sqlparse_1602184451250/work
+toml==0.10.2
+typed-ast==1.4.3
+typing-extensions @ file:///home/ktietz/src/ci_mi/typing_extensions_1612808209620/work
+wincertstore==0.2
+wrapt==1.12.1
+zipp @ file:///tmp/build/80754af9/zipp_1615904174917/work
